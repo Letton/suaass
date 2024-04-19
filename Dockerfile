@@ -1,3 +1,0 @@
-FROM drupal
-
-EXPOSE 80
